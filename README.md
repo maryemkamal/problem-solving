@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/maryemkamal/problem-solving/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/maryemkamal/problem-solving/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/maryemkamal/problem-solving/tree/master/0204-count-primes) |
+| [0412-fizz-buzz](https://github.com/maryemkamal/problem-solving/tree/master/0412-fizz-buzz) |
 ## Enumeration
 |  |
 | ------- |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/maryemkamal/problem-solving/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/maryemkamal/problem-solving/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/maryemkamal/problem-solving/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
