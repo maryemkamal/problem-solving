@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/maryemkamal/problem-solving/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/maryemkamal/problem-solving/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/maryemkamal/problem-solving/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/maryemkamal/problem-solving/tree/master/0204-count-primes) |
 ## Math
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/maryemkamal/problem-solving/tree/master/0412-fizz-buzz) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/maryemkamal/problem-solving/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/maryemkamal/problem-solving/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
